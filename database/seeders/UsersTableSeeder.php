@@ -25,7 +25,6 @@ class UsersTableSeeder extends Seeder
             'sex'=>'1',
             'phone' => rand(10000000000,99999999999),
             'password' => Hash::make('password'),
-            asdasd
         ]);
         }
     }
