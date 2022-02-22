@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84886610-7475-46e8-ba30-ecd32332ca80" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/blade.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/laravel-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeders/UsersTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/UsersTableSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/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" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/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.pub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/n" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/n.pub" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,7 +217,7 @@
       <workItem from="1645157764823" duration="787000" />
       <workItem from="1645175398749" duration="12243000" />
       <workItem from="1645416320656" duration="25000" />
-      <workItem from="1645502546665" duration="2614000" />
+      <workItem from="1645502546665" duration="2616000" />
     </task>
     <servers />
   </component>
